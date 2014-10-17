@@ -1,0 +1,59 @@
+
+/* change styles of main title */
+h1,h2 {
+	color: red; 
+	height:50px;
+}
+
+h1 {text-align: center}
+
+
+img {text-align: center}
+
+	/* Turn the links purple */
+a:hover {
+	color:purple;
+}
+
+/* Put a border around the photo */
+img {
+	border: 10px solid grey;
+}
+/* change styles of pic title */
+h5 {
+	color: blue; 
+	height:20px;
+	font-size:20px;
+	font-style: italic;
+    font-family:"Pacifico";
+}
+
+
+}
+
+/* Give the paragraphs and lists a 26px line height */
+table {
+	line-height: 26px;
+}
+
+/* Make the content of the page "sit on top of" the background */
+div#wrapper{
+	background-color: white;
+	width:960px;
+	margin:20px auto;
+	padding:20px;
+}
+
+body {
+  font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background: url(travel_background.jpg) repeat;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+}
+
+
+
+
